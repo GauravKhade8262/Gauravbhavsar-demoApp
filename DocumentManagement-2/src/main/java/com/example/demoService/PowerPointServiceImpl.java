@@ -5,6 +5,8 @@ public class PowerPointServiceImpl extends ServiceAbstractImpl{
 	@Override
 	public void processData() {
 		System.out.println("processing data for powerpoint");
+		System.out.println("processing data for power");
+		
 	}
 
 	@Override
